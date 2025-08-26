@@ -16,12 +16,6 @@ You can download sample NIfTI files for two patients to test the model from this
 
 [Sample Data (Google Drive)](https://drive.google.com/drive/folders/19LzKOcoIrWQhwY91e_kn644AcQi4tl8z?usp=sharing)
 
-## Sample Data
-
-You can download sample NIfTI files for two patients to test the model from this Google Drive link:
-
-[Sample Data (Google Drive)](https://drive.google.com/drive/folders/19LzKOcoIrWQhwY91e_kn644AcQi4tl8z?usp=sharing)
-
 ---
 title: Brain Tumor Segmentation
 emoji: 🧠
