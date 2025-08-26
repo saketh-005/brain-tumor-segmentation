@@ -30,23 +30,26 @@ license: mit
 
 # Brain Tumor Segmentation App
 
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Streamlit-Online-brightgreen" alt="Streamlit">
-  <a href="https://huggingface.co/spaces/saketh-005/brain-tumor-segmentation"><img src="https://img.shields.io/badge/HuggingFace-Spaces-yellow" alt="Hugging Face Spaces"></a>
+   <img src="https://img.shields.io/badge/Streamlit-Online-brightgreen" alt="Streamlit">
+   <a href="https://huggingface.co/spaces/saketh-005/brain-tumor-segmentation"><img src="https://img.shields.io/badge/HuggingFace-Live%20Demo-yellow" alt="Hugging Face Spaces"></a>
 </p>
 
-This project is a web application for brain tumor segmentation from 3D/4D NIfTI MRI scans using a 3D U-Net model, built with PyTorch and Streamlit. You can run it locally or deploy it on [Hugging Face Spaces](https://huggingface.co/spaces).
+This project is a web application for brain tumor segmentation from 3D/4D NIfTI MRI scans using a 3D U-Net model, built with PyTorch and Streamlit.
+
+## Live Demo
+
+👉 **Try the app instantly on Hugging Face Spaces:**
+
+[https://huggingface.co/spaces/saketh-005/brain-tumor-segmentation](https://huggingface.co/spaces/saketh-005/brain-tumor-segmentation)
+
+No installation required. Just open the link, upload your NIfTI files, and view the results.
 
 ## Features
 - Upload four 3D NIfTI brain scans (T1, T1ce, T2, FLAIR)
 - Automatic preprocessing and patch-based inference
 - Visualizes the predicted tumor mask overlayed on the MRI
-
-## Quick Start (Hugging Face Spaces)
-
-1. **Upload your trained model file** (`unet3d_model.pth`) to the Space's root directory or use a download link in the code.
-2. Click "Run" or "Duplicate Space" to use your own model.
-3. Use the web interface to upload your NIfTI files and view results.
 
 ## Local Usage
 1. Clone this repository:
