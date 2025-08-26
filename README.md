@@ -10,6 +10,30 @@ pinned: false
 license: mit
 ---
 
+## Sample Data
+
+You can download sample NIfTI files for two patients to test the model from this Google Drive link:
+
+[Sample Data (Google Drive)](https://drive.google.com/drive/folders/19LzKOcoIrWQhwY91e_kn644AcQi4tl8z?usp=sharing)
+
+## Sample Data
+
+You can download sample NIfTI files for two patients to test the model from this Google Drive link:
+
+[Sample Data (Google Drive)](https://drive.google.com/drive/folders/19LzKOcoIrWQhwY91e_kn644AcQi4tl8z?usp=sharing)
+
+---
+title: Brain Tumor Segmentation
+emoji: 🧠
+colorFrom: blue
+colorTo: pink
+sdk: streamlit
+sdk_version: 1.48.1
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # Brain Tumor Segmentation App
 
 <p align="center">
